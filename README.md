@@ -1,5 +1,7 @@
 # Welcome to my bank app
 
+Repo: [https://github.com/marceleq27/bank-app](https://github.com/marceleq27/bank-app)
+
 ## What you need
 
 - Node v.14 >=
