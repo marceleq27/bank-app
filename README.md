@@ -12,3 +12,10 @@ Repo: [https://github.com/marceleq27/bank-app](https://github.com/marceleq27/ban
 - npm install
 - npm start
 - go to localhost:3000
+
+Technologies:
+
+- Firebase (database)
+- React
+  - Ant Design
+  - @react-firebase
